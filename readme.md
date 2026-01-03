@@ -24,13 +24,15 @@ LOGIN
 DAFTAR
 <img width="1910" height="854" alt="Screenshot 2026-01-03 202019" src="https://github.com/user-attachments/assets/60c8ea2a-ab93-4479-ae06-ea4d66b628e6" />
 DASHBOARD
-<img width="1918" height="853" alt="image" src="https://github.com/user-attachments/assets/13ebd04a-84b8-4f89-afda-7b46a5459431" />
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/3405ac42-72cf-46f3-ad62-a212718f8cc1" />
 TAMBAH MAHASISWA
-<img width="1919" height="873" alt="Screenshot 2026-01-02 223204" src="https://github.com/user-attachments/assets/2de0a4fb-d11f-41f2-89cb-2264c27b3358" />
+<img width="1904" height="850" alt="image" src="https://github.com/user-attachments/assets/cbe8fd93-cee6-4b48-b6df-30fcbd2fb4e5" />
 <img width="1914" height="855" alt="Screenshot 2026-01-02 232714" src="https://github.com/user-attachments/assets/39d33126-a604-4c64-be8c-4306ce373733" />
 HAPUS MAHASISWA
 <img width="1915" height="863" alt="Screenshot 2026-01-02 233051" src="https://github.com/user-attachments/assets/c2e3bbe2-694e-44d8-ac10-8f7437117eee" />
 <img width="1902" height="852" alt="Screenshot 2026-01-02 233106" src="https://github.com/user-attachments/assets/6280d4bd-ef68-4d5e-8dc0-e18596bef71e" />
+LAPORAN
+<img width="1899" height="837" alt="image" src="https://github.com/user-attachments/assets/94c1f953-67a4-4d51-9c4f-c3ee3f4cb03f" />
 
 
 
