@@ -41,7 +41,7 @@ LAPORAN
 
 `$ > git clone https://github.com/Rizalmuhaimin123/SISTEM-INFORMASI-KAS-_-KAS-MAHASISWA.git`
 
-`$ > cd uangku-laravel`
+`$ > cd Rizalmukhaimin_221011400486_tugasweb2`
 
 `$ > composer install`
 
